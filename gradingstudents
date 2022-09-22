@@ -1,0 +1,17 @@
+def gradingStudents(grades):
+    newgrades=[]
+    for mark in grades:       
+        if mark<=37 :
+           newgrades.append(mark)
+        else: 
+            if mark%5==0:
+              newgrades.append(mark)
+            elif mark%5==3:
+                mark=mark+2
+                newgrades.append(mark)
+            elif mark%5==4:
+                mark+=1
+                newgrades.append(mark)
+            else:
+                newgrades.append(mark)
+    return newgrades
