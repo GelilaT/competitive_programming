@@ -1,0 +1,18 @@
+ 
+    def select(self, arr, i):
+        for i in range(len(arr)):
+            selected=min(arr)
+            return selected
+    def selectionSort(self, arr,n):
+      for i in range(n-1):
+     
+        minIndex = i  
+          
+        for j in range(i+1,n):  
+            if arr[j]<arr[minIndex]:  
+                minIndex = j  
+                  
+        arr[i], arr[minIndex] = arr[minIndex], arr[i]  
+          
+          
+      return arr     
