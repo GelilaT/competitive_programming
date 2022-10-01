@@ -1,12 +1,17 @@
 class Solution(object):
-    def sortColors(self, nums):
-        for i in range(len(nums)-1):
-     
-          minIndex = i  
-          
-          for j in range(i+1,len(nums)):  
-            if nums[j]<nums[minIndex]:  
-                minIndex = j  
-                  
-          nums[i], nums[minIndex] = nums[minIndex], nums[i]  
+    def sortColors(self,nums):
+        count=[0,0,0]
+        for i in range(len(nums)):
+            if nums[i]==0:
+                count[0]+=1
+            elif nums[i]==1:
+                count[1]+=1
+            else:
+                count[2]+=1
+        for j in range(count[0]):
+            nums[j]=0
+        for j in range(count[0],count[1]+count[0]):
+            nums[j]=1
+        for j in range(count[1]+count[0],count[0]+count[2]+count[1]):
+            nums[j]=2
         return nums
