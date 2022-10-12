@@ -2,7 +2,6 @@ class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
         prefixsum=[0]
         for i in range(len(nums)):
-            #prefixsum[i]=prefixsum[i]+nums[i]
             prefixsum.append(prefixsum[i]+nums[i])
         for i in range(len(nums)):
             if prefixsum[i]==prefixsum[-1]-prefixsum[i]-nums[i]:
