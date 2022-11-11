@@ -5,5 +5,5 @@ class Solution:
             prefixsum.append(prefixsum[i]+nums[i])
         for i in range(len(nums)):
             if prefixsum[i]==prefixsum[-1]-prefixsum[i]-nums[i]:
-              return i
+                return i
         return -1
