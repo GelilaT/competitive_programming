@@ -1,0 +1,6 @@
+numeng=int(input())
+english=set(input().split())
+numfrench=int(input())
+french=input().split()
+onlyeng=english.difference(french)
+print(len(onlyeng))
