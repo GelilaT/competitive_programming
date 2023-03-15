@@ -6,7 +6,7 @@ class Solution:
                 return mid
             elif mid == left == right:
                 return -1
-            elif mid < 0 or mid > len(nums):
+            elif left > right:
                 return -1
             elif nums[mid] > target:
                 return helper(left,mid - 1)
