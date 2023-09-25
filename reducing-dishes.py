@@ -1,5 +1,6 @@
 class Solution:
     def maxSatisfaction(self, satisfaction: List[int]) -> int:
+        
         satisfaction.sort()
         n = len(satisfaction)
         ans, sum, coef = 0, 0, 0
