@@ -1,44 +1,48 @@
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
+        
+        def find_ord(s):
+            return ord(s) - ord('a') + 1
 
-        if len(haystack) < len(needle):
-            return -1
-
-        # if haystack == needle:
-        #     return 0
-
-        n = len(needle)
-        lps = [0] * n
-        i, j = 0, 1
-
-        while j < len(needle):
+        def convert(word):
+            val = 0
             
-            if needle[i] == needle[j]:
-                lps[j] = i + 1 
-                i += 1
-                j += 1
+            for i in range(len(word) - 1, -1, -1):
+                val += find_ord(word[i]) * (27 ** (len(word) - (i + 1)))
 
-            else:
-                if i == 0:
-                    j += 1
+            return val
 
-                else:
-                    i = lps[i - 1]
+        def pollfirst(h, k, s):
 
-        hi, ni = 0, 0
-        while hi < len(haystack) and ni < len(needle):
+            new_val = h - (find_ord(s) * (27 ** (k - 1)))
+            return new_val
 
-            if needle[ni] == haystack[hi]: 
-                ni += 1
-                hi += 1
+        def addlast(h, s):
 
-            else:
-                if ni == 0:
-                    hi += 1
-                else:
-                    ni = lps[ni - 1]
+            new_val = 27 * h + find_ord(s)
+            return new_val
 
-        if ni == len(needle):
-            return hi - n
+        i = 0
+        k = len(needle)
+        n = convert(needle)
+        h = convert(haystack[i: k])
+
+        if n == h:
+            return 0
+
+        l, r = 0, k
+        while r < len(haystack):
+
+            if n == h:
+                return l
+
+            h = pollfirst(h, k, haystack[l])
+            h = addlast(h, haystack[r])
+
+            l += 1
+            r += 1
+        
+        if n == h:
+            return l
         else:
             return -1
