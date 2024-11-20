@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/GelilaT/competitive_programming/tree/master/0022-generate-parentheses) |
 | [0812-rotate-string](https://github.com/GelilaT/competitive_programming/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GelilaT/competitive_programming/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/GelilaT/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String Matching
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GelilaT/competitive_programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/GelilaT/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GelilaT/competitive_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/GelilaT/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GelilaT/competitive_programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Queue
 |  |
