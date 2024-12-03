@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/GelilaT/competitive_programming/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GelilaT/competitive_programming/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GelilaT/competitive_programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/GelilaT/competitive_programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GelilaT/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String Matching
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GelilaT/competitive_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GelilaT/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GelilaT/competitive_programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/GelilaT/competitive_programming/tree/master/2232-adding-spaces-to-a-string) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GelilaT/competitive_programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GelilaT/competitive_programming/tree/master/0015-3sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GelilaT/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GelilaT/competitive_programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/GelilaT/competitive_programming/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/GelilaT/competitive_programming/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/GelilaT/competitive_programming/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
