@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GelilaT/competitive_programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/GelilaT/competitive_programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GelilaT/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/GelilaT/competitive_programming/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String Matching
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/GelilaT/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GelilaT/competitive_programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/GelilaT/competitive_programming/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/GelilaT/competitive_programming/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sorting
 |  |
 | ------- |
