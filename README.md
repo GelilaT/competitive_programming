@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GelilaT/competitive_programming/tree/master/0049-group-anagrams) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GelilaT/competitive_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GelilaT/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/GelilaT/competitive_programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GelilaT/competitive_programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/GelilaT/competitive_programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/GelilaT/competitive_programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GelilaT/competitive_programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GelilaT/competitive_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GelilaT/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/GelilaT/competitive_programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GelilaT/competitive_programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/GelilaT/competitive_programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sliding Window
