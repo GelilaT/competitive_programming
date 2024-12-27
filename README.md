@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GelilaT/competitive_programming/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/GelilaT/competitive_programming/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/GelilaT/competitive_programming/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/GelilaT/competitive_programming/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/GelilaT/competitive_programming/tree/master/2164-two-best-non-overlapping-events) |
 ## Linked List
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/GelilaT/competitive_programming/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GelilaT/competitive_programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GelilaT/competitive_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1063-best-sightseeing-pair](https://github.com/GelilaT/competitive_programming/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GelilaT/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GelilaT/competitive_programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/GelilaT/competitive_programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
