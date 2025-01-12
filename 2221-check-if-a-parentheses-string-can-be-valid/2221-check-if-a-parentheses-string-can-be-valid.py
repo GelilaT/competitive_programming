@@ -4,27 +4,30 @@ class Solution:
         if n % 2:
             return False
 
-        stack = []
-        count = 0
+        lock = []
+        unlock = []
         for i, par in enumerate(s):
-            if par == "(" or locked[i] == '0':
-                count += 1
+            if locked[i] == '0':
+                unlock.append(i)
 
-            elif par == ")":
-                count -= 1
-
-            if count < 0:
-                return False
-
-        count = 0
-        for par, lock in zip(reversed(s), reversed(locked)):
-            if lock == '0' or par == ')':
-                count += 1
             elif par == '(':
-                count -= 1
+                lock.append(i)
 
-            if count < 0:
-                return False
+            elif par == ')':
+                if lock:
+                    lock.pop()
+                elif unlock:
+                    unlock.pop()
+                else:
+                    return False
         
+        while unlock and lock and lock[-1] < unlock[-1]:
+            unlock.pop()
+            lock.pop()
+
+        if lock:
+            return False
+
         return True
                 
+        
