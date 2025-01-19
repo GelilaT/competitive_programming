@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GelilaT/competitive_programming/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GelilaT/competitive_programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/GelilaT/competitive_programming/tree/master/0049-group-anagrams) |
+| [0407-trapping-rain-water-ii](https://github.com/GelilaT/competitive_programming/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/GelilaT/competitive_programming/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GelilaT/competitive_programming/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GelilaT/competitive_programming/tree/master/0780-max-chunks-to-make-sorted) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/GelilaT/competitive_programming/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GelilaT/competitive_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/GelilaT/competitive_programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/GelilaT/competitive_programming/tree/master/1917-maximum-average-pass-ratio) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/GelilaT/competitive_programming/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/GelilaT/competitive_programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/GelilaT/competitive_programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GelilaT/competitive_programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/GelilaT/competitive_programming/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/GelilaT/competitive_programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
