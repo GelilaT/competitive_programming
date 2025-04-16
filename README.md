@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GelilaT/competitive_programming/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GelilaT/competitive_programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/GelilaT/competitive_programming/tree/master/0049-group-anagrams) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GelilaT/competitive_programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GelilaT/competitive_programming/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GelilaT/competitive_programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/GelilaT/competitive_programming/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GelilaT/competitive_programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
