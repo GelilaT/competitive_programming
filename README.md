@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/GelilaT/competitive_programming/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/GelilaT/competitive_programming/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/GelilaT/competitive_programming/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/GelilaT/competitive_programming/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GelilaT/competitive_programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/GelilaT/competitive_programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GelilaT/competitive_programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/GelilaT/competitive_programming/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/GelilaT/competitive_programming/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GelilaT/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Bit Manipulation
@@ -577,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/GelilaT/competitive_programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/GelilaT/competitive_programming/tree/master/2998-count-symmetric-integers) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/GelilaT/competitive_programming/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
