@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GelilaT/competitive_programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/GelilaT/competitive_programming/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/GelilaT/competitive_programming/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/GelilaT/competitive_programming/tree/master/0058-length-of-last-word) |
 | [0812-rotate-string](https://github.com/GelilaT/competitive_programming/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/GelilaT/competitive_programming/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GelilaT/competitive_programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
