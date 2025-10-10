@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/GelilaT/competitive_programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GelilaT/competitive_programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/GelilaT/competitive_programming/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/GelilaT/competitive_programming/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/GelilaT/competitive_programming/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/GelilaT/competitive_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/GelilaT/competitive_programming/tree/master/0494-target-sum) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GelilaT/competitive_programming/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/GelilaT/competitive_programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/GelilaT/competitive_programming/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/GelilaT/competitive_programming/tree/master/0820-find-eventual-safe-states) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GelilaT/competitive_programming/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/GelilaT/competitive_programming/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/GelilaT/competitive_programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/GelilaT/competitive_programming/tree/master/0684-redundant-connection) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GelilaT/competitive_programming/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/GelilaT/competitive_programming/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/GelilaT/competitive_programming/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/GelilaT/competitive_programming/tree/master/1396-count-servers-that-communicate) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GelilaT/competitive_programming/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/GelilaT/competitive_programming/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/GelilaT/competitive_programming/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/GelilaT/competitive_programming/tree/master/1396-count-servers-that-communicate) |
