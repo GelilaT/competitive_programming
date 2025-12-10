@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GelilaT/competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GelilaT/competitive_programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/GelilaT/competitive_programming/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/GelilaT/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0797-rabbits-in-forest](https://github.com/GelilaT/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GelilaT/competitive_programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GelilaT/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GelilaT/competitive_programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/GelilaT/competitive_programming/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/GelilaT/competitive_programming/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/GelilaT/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/GelilaT/competitive_programming/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/GelilaT/competitive_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/GelilaT/competitive_programming/tree/master/0494-target-sum) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/GelilaT/competitive_programming/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/GelilaT/competitive_programming/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/GelilaT/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GelilaT/competitive_programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GelilaT/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/GelilaT/competitive_programming/tree/master/2164-two-best-non-overlapping-events) |
