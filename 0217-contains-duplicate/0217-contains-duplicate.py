@@ -1,5 +1,13 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        if len(set(nums))==len(nums):
-            return False
-        return True
+
+        count = {}
+        for num in nums:
+            if num in count:
+                return True
+
+            count[num] = 1
+
+        return False
+        
+        
