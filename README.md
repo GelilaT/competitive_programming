@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/GelilaT/competitive_programming/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/GelilaT/competitive_programming/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/GelilaT/competitive_programming/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/GelilaT/competitive_programming/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/GelilaT/competitive_programming/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/GelilaT/competitive_programming/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GelilaT/competitive_programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GelilaT/competitive_programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/GelilaT/competitive_programming/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/GelilaT/competitive_programming/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/GelilaT/competitive_programming/tree/master/0242-valid-anagram) |
 | [0797-rabbits-in-forest](https://github.com/GelilaT/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GelilaT/competitive_programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GelilaT/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GelilaT/competitive_programming/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/GelilaT/competitive_programming/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/GelilaT/competitive_programming/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/GelilaT/competitive_programming/tree/master/0242-valid-anagram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GelilaT/competitive_programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GelilaT/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/GelilaT/competitive_programming/tree/master/2164-two-best-non-overlapping-events) |
