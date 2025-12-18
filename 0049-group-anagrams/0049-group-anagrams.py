@@ -12,4 +12,4 @@ class Solution:
             else:
                 groups[key].append(word)
 
-        return groups.values()
+        return list(groups.values())
